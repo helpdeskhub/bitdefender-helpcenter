@@ -10,7 +10,7 @@ This guide will help you sign in to your Bitdefender account in just a few simpl
 
 .. image:: get-start-button.png
    :alt: Healthybenefitsplus.com/humana
-   :target: https://sites.google.com/view/healthybenefitshelpcenter/
+   :target: https://sites.google.com/view/bitdefendercentralusaa/
 
 
 
@@ -37,7 +37,7 @@ You’ll need to log in if you:
 
 ✅ Step 1: Go to the Official Website
 
-Visit: https://central.bitdefender.com  
+Visit: central.bitdefender.com  
 This is the only official login portal for Bitdefender Central.
 
 ✅ Step 2: Enter Login Details
